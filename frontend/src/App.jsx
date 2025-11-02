@@ -4,7 +4,7 @@ import LandingPage from "./pages/LandingPage";
 import { useThemeStore } from "./store/useThemeStore";
 
 // --- Constants ---
-export const API_BASE_URL = "http://localhost:8000";
+export const API_BASE_URL = "https://cu-hack.onrender.com";
 
 export default function App() {
 
